@@ -1,0 +1,15 @@
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.deps.json
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.runtimeconfig.json
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.dll
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.pdb
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.csproj.CopyComplete
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.dll
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.pdb
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Client.genruntimeconfig.cache

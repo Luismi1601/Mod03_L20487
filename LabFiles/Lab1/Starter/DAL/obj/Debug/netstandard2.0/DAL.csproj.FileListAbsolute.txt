@@ -1,0 +1,9 @@
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Curso\20487\Luismi\Labs\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.pdb
